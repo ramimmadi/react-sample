@@ -1,4 +1,4 @@
-# React Sample
+# React Sample app
 
 [![GitHub stars](https://img.shields.io/github/stars/raminr77/react_sample?style=social)](https://github.com/raminr77/react_sample/)
 
